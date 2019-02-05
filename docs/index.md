@@ -11,14 +11,15 @@ It is focused mainly in data science.
 
 - [Python crash course](https://ehmatthes.github.io/pcc/). This book covers programming basics and Python syntax, web scraping, web development, numerical programming, data mining and games.
 - [Think python 2e](http://greenteapress.com/wp/think-python-2e/). This book covers programming basics and Python syntax, algorithm and data structure and also graphics and computer vision.
-- [Learning Python](http://shop.oreilly.com/product/0636920028154.do). This books covers progamming basics and Python syntax and focuses on object-oriented programming.
+- [Learning Python](http://shop.oreilly.com/product/0636920028154.do). This books covers programming basics and Python syntax and focuses on object-oriented programming.
 
 ### Advance
 
-- [Fluent python](http://shop.oreilly.com/product/0636920032519.do). This book covers advanced python concepts. 
+- [Fluent python](http://shop.oreilly.com/product/0636920032519.do). This book covers advanced python concepts.
 - [Python cookbook](https://www.pythonbooks.org/python-cookbook-third-edition/). Reference book with recipes for tasks common to a wide variety of application domains.
 - [Test-driven development with python](https://www.obeythetestinggoat.com/pages/book.html). This book covers advanced python concepts for web test-driven development.
 - [Python testing with pytest](https://pragprog.com/book/bopytest/python-testing-with-pytest). This book covers python unit test developement with the package pytest.
+- [Thinking in python](http://docs.linuxtone.org/ebooks/Python/Thinking_In_Python.pdf). This books covers advanced concepts on object-oriented programming with python focussing on design patterns.
 
 ### Applications
 
