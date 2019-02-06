@@ -36,6 +36,8 @@ It is focused mainly in data science.
 
 ## Recipes
 
+- [The zen of python](https://www.python.org/dev/peps/pep-0020/). A collection of rules for writing good python code.
+
 ## Software tools
 
 - [Anaconda](https://www.anaconda.com/) An open-source python distribution that include most of the packages required for data science and machine learning. It also eases the management of different versions of python and the packages update.
