@@ -29,10 +29,11 @@ It is focused mainly in data science.
 ## Courses and tutorials
 
 - [Python 3 tutorial](https://docs.python.org/3/tutorial/index.html). The official Pyhton 3 tutorial.
-- [Learn python](https://www.learnpython.org/). This site contains a lot of tutorials from basic to advance programming, and packages numpy and pandas.
+- [Learn python](https://www.learnpython.org/). This site contains a lot of interactive tutorials from basic to advance programming, and packages numpy and pandas.
 - [Introduction to python](https://www.datacamp.com/courses/intro-to-python-for-data-science). Basic python tutorial.
 - [Introduction to data science in python](https://www.datacamp.com/courses/introduction-to-data-science-in-python). This tutorial covers the use of packages matplotlib and pandas for data science.
 - [Intermediate python for data science](https://www.datacamp.com/courses/intermediate-python-for-data-science). This tutorial deeps into the packages matplotlib and pandas for data science.
+- [Playground and cheatsheet for learning Python.](https://github.com/trekhleb/learn-python). Collection of Python scripts that are split by topics and contain code examples with explanations.
 
 ## Recipes
 
