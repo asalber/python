@@ -2,8 +2,8 @@
 
 # Python repository
 
-This repository contains a bunch of references, tutorials, courses, recipes, libraries, software tools and other stuff for programming with Python.
-It is focused mainly in data science. 
+This repository contains a bunch of references, tutorials, courses, recipes, libraries, software tools and other stuff for programming with [Python](https://www.python.org/).
+It is focused mainly on Data Science.
 
 ## References
 
@@ -13,7 +13,7 @@ It is focused mainly in data science.
 - [Think python 2e](http://greenteapress.com/wp/think-python-2e/). This book covers programming basics and Python syntax, algorithm and data structure and also graphics and computer vision.
 - [Learning Python](http://shop.oreilly.com/product/0636920028154.do). This books covers programming basics and Python syntax and focuses on object-oriented programming.
 
-### Advance
+### Advanced
 
 - [Fluent python](http://shop.oreilly.com/product/0636920032519.do). This book covers advanced python concepts.
 - [Python cookbook](https://www.pythonbooks.org/python-cookbook-third-edition/). Reference book with recipes for tasks common to a wide variety of application domains.
