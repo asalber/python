@@ -43,3 +43,7 @@ It is focused mainly on Data Science.
 
 - [Anaconda](https://www.anaconda.com/) An open-source python distribution that include most of the packages required for data science and machine learning. It also eases the management of different versions of python and the packages update.
 - [Jupyter](https://jupyter.org/). An open-source web application that allows you to create and share documents that contain live code, equations, visualizations and text. It allows a lot of programming languages including python.
+
+## Modules
+
+- [Eliot](https://eliot.readthedocs.io/) A module for understandable logging.
